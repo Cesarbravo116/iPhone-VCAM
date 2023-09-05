@@ -1,4 +1,4 @@
-//此方法放在@interface XXXViewController 之前
+// This method is placed in the @interface XXXViewController beforehand
 // @see https://www.jianshu.com/p/c2f8ef80e925
 
 // RotatePixelBufferToAngle(pixelBuffer, radians(90));
